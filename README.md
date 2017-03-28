@@ -1,4 +1,4 @@
-<h1>Cycling Progress Control</h1><hr>
+<h1>Cycling Progress Control</h1>
 A progress indicator control that has similar function like a UIProgressView does except It is in circular form.
 
 <h3>Quick Start</h3>
